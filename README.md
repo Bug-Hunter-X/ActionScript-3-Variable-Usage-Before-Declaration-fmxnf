@@ -1,0 +1,1 @@
+This repository demonstrates a common ActionScript 3 compiler error: using a variable before it's declared, even within the same function scope. ActionScript 3's single-pass compiler enforces this rule, leading to errors if the declaration order isn't correct. The bug.as file shows the incorrect code that causes the error, while bugSolution.as provides the corrected version.
